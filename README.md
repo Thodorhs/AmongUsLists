@@ -1,5 +1,5 @@
 # AmongUsLists
-A simulation of Among Us game using linked lists
+A simulation of Among Us game using linked lists.
 # Prerequisites
 - Make || apt install make
 - gcc || apt install gcc
